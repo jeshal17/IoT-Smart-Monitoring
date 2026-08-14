@@ -1,12 +1,12 @@
 <div align="center">
 
-###🌱 IoT Smart Monitoring System
+# 🌱 IoT Smart Monitoring System
 
 ### An Arduino-based IoT simulation built using Tinkercad
 
 </div>
 
-### About
+## About
 
 This project is an IoT-based monitoring system designed and simulated using **Tinkercad**. It uses Arduino with different sensors and output components to monitor conditions and provide real-time responses.
 
@@ -25,7 +25,7 @@ This project is an IoT-based monitoring system designed and simulated using **Ti
 
 <div align="center">
 
-<img src=".https://github.com/jeshal17/IoT-Smart-Monitoring/blob/main/final%20project%20.png/" width="90%" alt="Tinkercad IoT Final Project">
+<img src="https://raw.githubusercontent.com/jeshal17/IoT-Smart-Monitoring/main/final%20project%20.png" width="90%" alt="Tinkercad IoT Final Project">
 
 </div>
 
