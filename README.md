@@ -1,4 +1,4 @@
-<div align="center">
+
 
 ### 🌱 IoT Smart Monitoring System
 
