@@ -41,6 +41,7 @@ Sensor Input
 Display / Alert
       ↓
 System Response
+</div>
 ## 🎥 Project Demo :
 
 [▶️ Watch the Tinkercad Project Demo](./IOT_final_project.mp4)
