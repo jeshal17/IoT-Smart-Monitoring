@@ -1,5 +1,3 @@
-
-
 ### 🌱 IoT Smart Monitoring System
 
 ### An Arduino-based IoT simulation built using Tinkercad
@@ -8,7 +6,8 @@
 
 ### About :  
 <br>
-This project is an IoT-based monitoring system designed and simulated using **Tinkercad**. It uses Arduino with different sensors and output components to monitor conditions and provide real-time responses.
+
+This project is an **IoT-based smart monitoring system** designed to automate environmental monitoring. It uses **Arduino, soil moisture, and temperature sensors** to collect real-time readings, process the data, and display results on an LCD. LEDs and a buzzer provide alerts when conditions cross predefined limits. The system was built and tested in **Tinkercad** by varying sensor inputs and verifying the corresponding responses.
 
 ## Components : 
 
@@ -41,23 +40,3 @@ Sensor Input
 Display / Alert
       ↓
 System Response
-</div>
-## 🎥 Project Demo :
-
-[▶️ Watch the Tinkercad Project Demo](./IOT_final_project.mp4)
-
-## 🛠️ Built With
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Arduino-31543F?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tinkercad-3F6B50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-527A5D?style=for-the-badge"/>
-
-</p>
-
-<div align="center">
-
-Built with Arduino · Tinkercad · IoT
-
-</div>
